@@ -6,7 +6,6 @@ API HTTP em Node.js + Express para o aplicativo **Mare de Brincadeiras**.
 
 ## Estrutura de Pastas
 
-```
 mare-brincadeiras-backend/
 ├── src/
 │   ├── app.js        ← Aplicação Express (rotas, middlewares, catálogo)
